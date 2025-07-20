@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f9f9f9;
+  color: #333;
+}
+
+header {
+  background: #101820;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  width: 80px;
+}
+
+main {
+  padding: 2rem;
+}
+
+.article {
+  background: white;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+.article h2 {
+  margin-top: 0;
+}
+
+.read-more {
+  display: inline-block;
+  margin-top: 10px;
+  color: #0077cc;
+  text-decoration: none;
+}
