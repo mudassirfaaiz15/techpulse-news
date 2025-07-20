@@ -91,5 +91,5 @@ Edit
 You can also deploy it live by uploading the entire folder.
 
 🌍 Live Demo
-https://technewsdaily.netlify.app/
+https://687cf47d5032370141e9f169--technewsdaily.netlify.app/
 
