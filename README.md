@@ -90,6 +90,10 @@ Edit
 3. Open index.html in your browser
 You can also deploy it live by uploading the entire folder.
 
+<img width="2203" height="1137" alt="Screenshot 2025-07-20 203444" src="https://github.com/user-attachments/assets/7a6f4dea-86a6-4b33-a983-384f18572071" />
+
+
+
 🌍 Live Demo
 https://687cf47d5032370141e9f169--technewsdaily.netlify.app/
 
